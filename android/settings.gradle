@@ -1,0 +1,3 @@
+rootProject.name = 'lipia_4510'
+
+include ':app'
